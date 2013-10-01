@@ -1,0 +1,19 @@
+body
+{	color:black;
+	background-color: orange;
+	font-size: 18pt;
+	font-family: arial;
+	margin: 10;
+	}
+	
+.photo{
+	float:left;
+	border: 10px solid white;
+	padding-bottom:10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left:10px;
+	margin-right:10px;
+	margin-bottom: 10px;
+	background: black; 
+	}
